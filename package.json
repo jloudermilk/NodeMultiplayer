@@ -1,0 +1,30 @@
+{
+  "name": "nodemultiplayer",
+  "version": "0.0.1",
+  "description": "working out some multiplayer research",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordkuragari/NodeMultiplayer.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "socket",
+    "game"
+  ],
+  "author": "Justin Loudermilk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lordkuragari/NodeMultiplayer/issues"
+  },
+  "homepage": "https://github.com/lordkuragari/NodeMultiplayer",
+  "dependencies": {
+    "express": "^4.12.3",
+    "phaser": "^2.3.0",
+    "socket.io": "^1.3.5",
+    "uuid": "^2.0.1"
+  }
+}
