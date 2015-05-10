@@ -1,0 +1,172 @@
+{ "frames": {
+
+"01": {
+	"frame": {"x":2,"y":124,"w":19,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":19},
+	"sourceSize": {"w":19,"h":19}
+},
+"02": {
+	"frame": {"x":87,"y":2,"w":22,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":17},
+	"sourceSize": {"w":22,"h":17}
+},
+"03": {
+	"frame": {"x":2,"y":109,"w":23,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":13},
+	"sourceSize": {"w":23,"h":13}
+},
+"04": {
+	"frame": {"x":63,"y":26,"w":20,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":22},
+	"sourceSize": {"w":20,"h":22}
+},
+"05": {
+	"frame": {"x":87,"y":21,"w":16,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":22},
+	"sourceSize": {"w":16,"h":22}
+},
+"06": {
+	"frame": {"x":37,"y":79,"w":24,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":13},
+	"sourceSize": {"w":24,"h":13}
+},
+"07": {
+	"frame": {"x":37,"y":54,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":24,"h":23}
+},
+"08": {
+	"frame": {"x":37,"y":28,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+"09": {
+	"frame": {"x":37,"y":2,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+"10": {
+	"frame": {"x":87,"y":45,"w":22,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":16},
+	"sourceSize": {"w":22,"h":16}
+},
+"11": {
+	"frame": {"x":87,"y":83,"w":20,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":16},
+	"sourceSize": {"w":20,"h":16}
+},
+"12": {
+	"frame": {"x":63,"y":72,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"13": {
+	"frame": {"x":63,"y":94,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"14": {
+	"frame": {"x":63,"y":2,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":22},
+	"sourceSize": {"w":22,"h":22}
+},
+"15": {
+	"frame": {"x":87,"y":101,"w":20,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":15},
+	"sourceSize": {"w":20,"h":15}
+},
+"16": {
+	"frame": {"x":28,"y":94,"w":24,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":13},
+	"sourceSize": {"w":24,"h":13}
+},
+"17": {
+	"frame": {"x":2,"y":2,"w":33,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":20},
+	"sourceSize": {"w":33,"h":20}
+},
+"18": {
+	"frame": {"x":2,"y":24,"w":33,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":20},
+	"sourceSize": {"w":33,"h":20}
+},
+"19": {
+	"frame": {"x":2,"y":70,"w":31,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":22},
+	"sourceSize": {"w":31,"h":22}
+},
+"20": {
+	"frame": {"x":2,"y":46,"w":31,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":22},
+	"sourceSize": {"w":31,"h":22}
+},
+"21": {
+	"frame": {"x":63,"y":50,"w":22,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":20},
+	"sourceSize": {"w":22,"h":20}
+},
+"22": {
+	"frame": {"x":87,"y":63,"w":20,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":18},
+	"sourceSize": {"w":20,"h":18}
+},
+"23": {
+	"frame": {"x":2,"y":94,"w":24,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":13},
+	"sourceSize": {"w":24,"h":13}
+}
+},
+"meta": {
+	"app": "http://www.mokgames.com/texturepacker/",
+	"version": "1.0",
+	"image": "pinkrabite.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": 1
+}}
